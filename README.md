@@ -26,7 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightly-developer&show_icons=true&locale=en&layout=compact" alt="nightly-developer" /></p>
 
-[![nightly-developer's GitHub | Stats](https://stats.quine.sh/nightly-developer/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=nightly-developer)
-
-[![nightly-developer's GitHub | Dependencies](https://stats.quine.sh/nightly-developer/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=nightly-developer)
+[![nightly-developer's GitHub | Stats](https://stats.quine.sh/nightly-developer/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=nightly-developer) [![nightly-developer's GitHub | Dependencies](https://stats.quine.sh/nightly-developer/dependencies?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=nightly-developer)
 
