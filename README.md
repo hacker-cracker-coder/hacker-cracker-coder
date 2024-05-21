@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [web-developement-wiith-Python&HTMX](https://github.com/nightly-developer/Web-Development-with-Python)
 
-- 🌱 I’m currently learning **Express, MongoDB**
+- 🌱 I’m currently learning **React, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nightly-developer](https://github.com/nightly-developer)
 
