@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nightly-developer&label=Profile%20views&color=0e75b6&style=flat" alt="nightly-developer" /> </p>
 
-- 🔭 I’m currently working on [lyrics wordcloud creator](http://example.com)
+- 🔭 I’m currently working on [web-developement-wiith-Python&HTMX](https://github.com/nightly-developer/Web-Development-with-Python)
 
 - 🌱 I’m currently learning **Express, MongoDB**
 
