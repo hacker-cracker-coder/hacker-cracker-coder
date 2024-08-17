@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Python, AI/ML, MySQL**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IPbvoRwfxUsJgY8xVzQBhV_hanFXcrO6/view?usp=sharing](https://drive.google.com/file/d/1IPbvoRwfxUsJgY8xVzQBhV_hanFXcrO6/view?usp=sharing)
+- 📄 Want to know more about my experiences [https://drive.google.com/file/d/1IPbvoRwfxUsJgY8xVzQBhV_hanFXcrO6/view?usp=sharing](https://drive.google.com/file/d/1IPbvoRwfxUsJgY8xVzQBhV_hanFXcrO6/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have good sense of humor**
 
